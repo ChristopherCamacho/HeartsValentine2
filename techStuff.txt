@@ -1,0 +1,1 @@
+This is a tecky text for testing purposes. First I want to try no break space. to do this: June{ }17th. If want to enter {  } just add a space. Just one space removed {   } {    }. Now hyphenation. manucastering ma{-}nu{-}cast{-}ering. For {--} {---}, same rule as space.
